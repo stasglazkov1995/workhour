@@ -5391,11 +5391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/stanislaw/New Volume/TestTaskKuiw/BissnesHour/BissnesHour.csproj",
+      "projectUniqueName": "/media/stanislaw/New Volume/WorkHour/BissnesHour.csproj",
       "projectName": "BissnesHour",
-      "projectPath": "/media/stanislaw/New Volume/TestTaskKuiw/BissnesHour/BissnesHour.csproj",
+      "projectPath": "/media/stanislaw/New Volume/WorkHour/BissnesHour.csproj",
       "packagesPath": "/home/stanislaw/.nuget/packages/",
-      "outputPath": "/media/stanislaw/New Volume/TestTaskKuiw/BissnesHour/obj/",
+      "outputPath": "/media/stanislaw/New Volume/WorkHour/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/stanislaw/.nuget/NuGet/NuGet.Config"

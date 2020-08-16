@@ -60,3 +60,11 @@
 /media/stanislaw/New Volume/TestTaskKuiw/BissnesHour/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /media/stanislaw/New Volume/TestTaskKuiw/BissnesHour/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /media/stanislaw/New Volume/TestTaskKuiw/BissnesHour/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/stanislaw/New Volume/WorkHour/obj/Debug/netcoreapp3.1/BissnesHour.csprojAssemblyReference.cache
+/media/stanislaw/New Volume/WorkHour/obj/Debug/netcoreapp3.1/BissnesHour.AssemblyInfoInputs.cache
+/media/stanislaw/New Volume/WorkHour/obj/Debug/netcoreapp3.1/BissnesHour.AssemblyInfo.cs
+/media/stanislaw/New Volume/WorkHour/obj/Debug/netcoreapp3.1/BissnesHour.csproj.CoreCompileInputs.cache
+/media/stanislaw/New Volume/WorkHour/obj/Debug/netcoreapp3.1/BissnesHour.MvcApplicationPartsAssemblyInfo.cs
+/media/stanislaw/New Volume/WorkHour/obj/Debug/netcoreapp3.1/BissnesHour.MvcApplicationPartsAssemblyInfo.cache
+/media/stanislaw/New Volume/WorkHour/obj/Debug/netcoreapp3.1/BissnesHour.dll
+/media/stanislaw/New Volume/WorkHour/obj/Debug/netcoreapp3.1/BissnesHour.pdb

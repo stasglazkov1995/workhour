@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lAlfAvCOGB9JwkocDGquemoKtqNylbXfn8d0oFQro4JOQhU68fcwbhhYiyVQwTZJ6+VYuWSPwr/2FfRmCRK2pw==",
+  "dgSpecHash": "B2p1FTfids1A3HJmsFBMVrUPKjaA6cH5vuJbDhv65JUIr4JNsrPO4McZeYZr9/gQ4kfyp9PV3HACgLoX/GbXdA==",
   "success": true,
-  "projectFilePath": "/media/stanislaw/New Volume/TestTaskKuiw/BissnesHour/BissnesHour.csproj",
+  "projectFilePath": "/media/stanislaw/New Volume/WorkHour/BissnesHour.csproj",
   "expectedPackageFiles": [
     "/home/stanislaw/.nuget/packages/devart.data/5.0.2488/devart.data.5.0.2488.nupkg.sha512",
     "/home/stanislaw/.nuget/packages/devart.data.postgresql/7.17.1696/devart.data.postgresql.7.17.1696.nupkg.sha512",
